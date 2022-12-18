@@ -8,6 +8,7 @@ packages = [{include = "day_22"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.5.2"
 
 
 [build-system]
